@@ -9,9 +9,8 @@ const app = express();
 // connecting to MongoDB
 
 mongoose.connect("mongodb://localhost:27017/social-media-api", {
-    useNewUrlParser: true, // useNewUrlParser is a new url string parser
-    useUnifiedTopology: true, // useUnifiedTopology is a new server discovery and monitoring engine
-    useCreateIndex: true, // useCreateIndex is a new index build
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
 });
 
 const db = mongoose.connection;
