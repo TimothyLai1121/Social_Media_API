@@ -48,4 +48,5 @@ Once the server is running, you can use a tool like Insomnia to test the API's r
 
 ## Walkthrough Video
 I have created a walkthrough video demonstrating the functionality of the API:
-![demo](./vids/Demo_Social_Media_CRUD.mp4)
+
+- ![demo](./vids/Demo_Social_Media_CRUD.mp4)
