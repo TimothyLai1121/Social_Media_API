@@ -22,7 +22,7 @@ router.post("/", (req, res, next) => {
         username: req.body.username,
         email: req.body.email
     });
-
+// is it because i didn't use runValidators: true ? //
     newUser
         .save()
         .then(() => res.json("User added!"))

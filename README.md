@@ -51,4 +51,4 @@ I have created a walkthrough video demonstrating the functionality of the API:
 
 
 - Please download the video to view it in full resolution.
-- ![demo](./vids/Demo_Social_Media_CRUD.mp4)
+- ![demo](Demo_Social_Media_CRUD.mp4)
