@@ -52,4 +52,4 @@ I have created a walkthrough video demonstrating the functionality of the API:
 
 - Please download the video to view it in full resolution.
 
-[demo](https://drive.google.com/file/d/1jb0elVbBEQM26A5m5mtk9x84p9z5XdXf/view?usp=share_link)
+[![My Video](https://drive.google.com/thumbnail?id=1jb0elVbBEQM26A5m5mtk9x84p9z5XdXf)](https://drive.google.com/file/d/1jb0elVbBEQM26A5m5mtk9x84p9z5XdXf/view?usp=sharing "My Video")
